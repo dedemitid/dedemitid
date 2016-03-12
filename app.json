@@ -1,0 +1,13 @@
+{
+  "name": "dedemitid",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
